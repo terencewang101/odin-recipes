@@ -1,0 +1,35 @@
+h1 {
+    font-family: Cambria, Georgia, Times, serif;
+    font-size: 40px;
+}
+
+
+.demo {
+    display: block;
+    width: 800px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+.order {
+    color: grey;
+}
+
+.list.order {
+    font-family: 'Courier New', Geneva, Verdana, sans-serif;
+}
+
+#emphasis {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.noorder,
+#ingredients {
+    background-color: grey;
+}
